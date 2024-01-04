@@ -39,6 +39,12 @@ src/
 
 Uygulama, [bu linkte](https://gist.github.com/yasaricli/de2282f01c739a5c8fcbffbb9116e277) verilen JSON verisini kullanmaktadır. Bu veri, Axios kullanılarak çekilip, uygulamada kullanılmaktadır.
 
+## Demo Video
+
+Projemizin çalışma şeklini gösteren videosunu izlemek için aşağıdaki bağlantıya tıklayın:
+
+[Screen Demo Video](./screen.mp4)
+
 ## Kurulum ve Başlatma
 
 Bu React Native uygulamasını kurmak ve çalıştırmak için Yarn ve CocoaPods kullanılacaktır:
