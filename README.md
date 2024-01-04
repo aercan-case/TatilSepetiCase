@@ -60,13 +60,13 @@ Bu React Native uygulamasını kurmak ve çalıştırmak için Yarn ve CocoaPods
    ```
 
 4. Uygulamayı iOS veya Android simülatöründe/aygıtında çalıştırmak için aşağıdaki komutları kullanın:
-   - iOS için:
-     ```bash
-     yarn ios
-     ```
-   - Android için:
-     ```bash
-     yarn android
-     ```
+   iOS için:
+   ```bash
+   yarn ios
+   ```
+   Android için:
+   ```bash
+   yarn android
+   ```
 
 Bu adımlar, uygulamanın local geliştirme ortamınızda başarıyla çalıştırılmasını sağlar.
